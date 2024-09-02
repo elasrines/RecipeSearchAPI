@@ -25,4 +25,6 @@ This website allows users to search for recipes based on specific ingredients. I
   - Fetching data from APIs and handling asynchronous operations.
   - Creating a dynamic and responsive user interface with CSS.
   - Deploying a static site using GitHub Pages and Firebase.
+ 
+![Preview of Website](assets/preview.gif)
 
